@@ -54,7 +54,7 @@ strategies for clients from different fields of using Autodesk, supporting clien
   <a href="http://nataliakudriavtseva.tilda.ws">
     <img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/Natalinka_mandarinka">
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Twitter Badge"/>
   </a>
 </div>
