@@ -47,7 +47,7 @@ strategies for clients from different fields of using Autodesk, supporting clien
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/natalia-kudriavtseva-296364236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -58,3 +58,5 @@ strategies for clients from different fields of using Autodesk, supporting clien
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Twitter Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
