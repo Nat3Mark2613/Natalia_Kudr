@@ -58,7 +58,7 @@ strategies for clients from different fields of using Autodesk, supporting clien
   </a>
 </div>
 </h1>
- # Hey, My links for connection
 <<div id="badges" align="center">
+   Hey, My links for connection
 <img src="https://komarev.com/ghpvc/?username=Nat3Mark2613&style=flat-square&color=blue" alt=""/>
 </h1>
