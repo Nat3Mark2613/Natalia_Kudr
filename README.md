@@ -45,7 +45,7 @@ strategies for clients from different fields of using Autodesk, supporting clien
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="100"/>
 </div>
-
+  Hey, My links for connection
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/natalia-kudriavtseva-296364236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -59,6 +59,5 @@ strategies for clients from different fields of using Autodesk, supporting clien
 </div>
 </h1>
 <<div id="badges" align="center">
-   Hey, My links for connection
 <img src="https://komarev.com/ghpvc/?username=Nat3Mark2613&style=flat-square&color=blue" alt=""/>
 </h1>
