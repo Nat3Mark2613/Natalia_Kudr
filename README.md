@@ -11,5 +11,5 @@ Additional education:
 • 2022 Personal Stylist (European School of Style. Antwerp, Belgium)
 • 2023 Data Analysis with business application solutions development. (Mathematics and Computer Science ) Tomsk State University
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="README.md" width="100"/>
 </div>
