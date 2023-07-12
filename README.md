@@ -55,6 +55,6 @@ strategies for clients from different fields of using Autodesk, supporting clien
     <img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Twitter Badge"/>
   </a>
 </div>
