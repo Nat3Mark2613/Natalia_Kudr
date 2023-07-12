@@ -81,3 +81,10 @@ strategies for clients from different fields of using Autodesk, supporting clien
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nat3Mark2613&theme=dark&background=000000)](https://git.io/streak-stats)
+
