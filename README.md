@@ -42,6 +42,11 @@ Contract work; Baltic country EU, /Language : Eng
 Responsibilities : participation in the sales process in EU , conducting meetings and trainings for sales managers and clients, choosing
 strategies for clients from different fields of using Autodesk, supporting clients and managers at all stages : from request to signing the contract .
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="100"/>
+</div>
+
+
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/natalia-kudriavtseva-296364236/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
