@@ -48,11 +48,11 @@ strategies for clients from different fields of using Autodesk, supporting clien
 
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/natalia-kudriavtseva-296364236/)">
+  <a href="https://www.linkedin.com/in/natalia-kudriavtseva-296364236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](http://nataliakudriavtseva.tilda.ws)">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="http://nataliakudriavtseva.tilda.ws">
+    <img src="https://img.shields.io/website/PROTOCOL/URLREST.svg"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
