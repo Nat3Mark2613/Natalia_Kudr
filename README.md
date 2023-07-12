@@ -58,5 +58,5 @@ strategies for clients from different fields of using Autodesk, supporting clien
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Twitter Badge"/>
   </a>
 </div>
-<align="center">
+<<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Nat3Mark2613&style=flat-square&color=blue" alt=""/>
