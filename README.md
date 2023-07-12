@@ -42,14 +42,14 @@ Contract work; Baltic country EU, /Language : Eng
 Responsibilities : participation in the sales process in EU , conducting meetings and trainings for sales managers and clients, choosing
 strategies for clients from different fields of using Autodesk, supporting clients and managers at all stages : from request to signing the contract .
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif)https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="100"/>
-</div>
-
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/natalia-kudriavtseva-296364236/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](http://nataliakudriavtseva.tilda.ws)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
