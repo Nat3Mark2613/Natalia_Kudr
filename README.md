@@ -1,4 +1,4 @@
-# Natalia_Kudr
+### Natalia_Kudriavtseva
 
 ### BDM/PM/Data_Business_Analyst
 
@@ -41,3 +41,7 @@ Contract work; Baltic country EU, /Language : Eng
 
 Responsibilities : participation in the sales process in EU , conducting meetings and trainings for sales managers and clients, choosing
 strategies for clients from different fields of using Autodesk, supporting clients and managers at all stages : from request to signing the contract .
+
+<div id="header" align="center">
+  <img src="https:[//media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt2MzZjNDUwMXd3NjJvMDQ1bmM2MWZiYjVsN3BrazNyOTgzeTU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsptfyOo3RLVf9fErh/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt2MzZjNDUwMXd3NjJvMDQ1bmM2MWZiYjVsN3BrazNyOTgzeTU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsptfyOo3RLVf9fErh/giphy.gif" width="100"/>](https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif)https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif
+</div>
