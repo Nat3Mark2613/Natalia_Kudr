@@ -1,12 +1,12 @@
 ### Natalia_Kudriavtseva
 
 ### BDM/PM/Data_Business_Analyst
-
+---
 # Education:
 
 2005- 2010 Admiral Makarov State University of Maritime and Inland shipping 
 Marine engineer by profession «Shipbuilding»
-
+---
 # Additional education:
 
 • 2014 - Contemporary technology of engineering ore mining factory, ore preparation and dressing minerals raw materials.(No certificate 66-093 ) Saint-Petersburg Mining University
@@ -21,7 +21,11 @@ Marine engineer by profession «Shipbuilding»
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt2MzZjNDUwMXd3NjJvMDQ1bmM2MWZiYjVsN3BrazNyOTgzeTU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsptfyOo3RLVf9fErh/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt2MzZjNDUwMXd3NjJvMDQ1bmM2MWZiYjVsN3BrazNyOTgzeTU4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsptfyOo3RLVf9fErh/giphy.gif" width="100"/>
 </div>
 
+---
+
 ## Work experience:
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 # 2015 - 2018 Region Business Technical development manager with function of Softrwar BI analysing
 
@@ -41,7 +45,7 @@ Contract work; Baltic country EU, /Language : Eng
 
 Responsibilities : participation in the sales process in EU , conducting meetings and trainings for sales managers and clients, choosing
 strategies for clients from different fields of using Autodesk, supporting clients and managers at all stages : from request to signing the contract .
-
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="100"/>
 </div>
@@ -60,10 +64,20 @@ strategies for clients from different fields of using Autodesk, supporting clien
 <<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Nat3Mark2613&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey, it is my links
+  Hey, it is my links
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+      
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
