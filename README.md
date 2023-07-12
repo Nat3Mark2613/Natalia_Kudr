@@ -46,4 +46,4 @@ strategies for clients from different fields of using Autodesk, supporting clien
   <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif)https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="100"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
