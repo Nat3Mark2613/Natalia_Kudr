@@ -57,11 +57,9 @@ strategies for clients from different fields of using Autodesk, supporting clien
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Twitter Badge"/>
   </a>
 </div>
-</h1>
 <<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Nat3Mark2613&style=flat-square&color=blue" alt=""/>
-</h1>
 <h1>
-  hey there
+  hey, there is my links
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
